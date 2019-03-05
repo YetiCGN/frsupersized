@@ -1,0 +1,11 @@
+{
+    "name": "ffrewer/frsupersized",
+    "type": "typo3-cms-extension",
+    "description": "This TYPO3 extension implements the jquery supersized plugin - full screen background slideshow  (http://buildinternet.com/project/supersized/ - MIT License / GPL License / https://github.com/buildinternet/supersized).",
+    "license": [
+        "GPL-2.0+"
+    ],
+    "require": {
+        "typo3/cms-core": ">=6.2.0,<9.9.99"
+    }
+}
